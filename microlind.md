@@ -32,6 +32,10 @@ I desided that this was not challenging enough, so I put some constraints on the
 - A sturdy USB-B connector to feed power and to connect to console.
 - 2 expansion modules with connectors on the back (Audio board & Video board).
 
+![System Architecture](/img/system-architecture.png)
+
+I boiled it down to an "simple" architecture shown above.
+
 With this in mind and a "feature complete" computer I started doing the actual pcb layout. This task was far more daunting than I would have guessed, I could not get it done.
 
 ![Motherboard-Goal](/img/motherboard.png)
@@ -41,8 +45,8 @@ After several weeks of just staring at the mostly empty board I got the excellen
 | Stage | Content | State |
 | :------ |:--- | :--- |
 | 1 | CPU, ROM, Low RAM, Serial Port and one expansion port (To debug easier) | Finished & Ordered |
-| 2 | Stage 2 + High Ram, Address Logic (For banking etc.), Interupt Logic, three expansion ports (Audio, Video and External) | Layout in progress |
-| 3 | Stage 3 + PS2 (Mouse & Keyboard), Joystick Ports, Internal Storage Option (CF) | Designed |
+| 2 | Stage 1 + High Ram, Address Logic (For banking etc.), Interupt Logic, three expansion ports (Audio, Video and External) | Layout in progress |
+| 3 | Stage 2 + PS2 (Mouse & Keyboard), Joystick Ports, Internal Storage Option (CF) | Designed |
 
 No more than 3 days after this desicion I finished with the general layout and routing. I now let my son review the schematics and the routing with datasheets of all components.
 After 3 reviews and revisions we desided to order the board and call stage 1 closed.
