@@ -13,7 +13,7 @@ During this stage I will be able to test that Read/Write logic and signal timing
 The board will be able to communicate with a serial-USB bridge so I can connect it to my regular computer and hopefully receive data from µLind.
 This is Stage 1 design:
 
-[Master Page](/img/stage1/master.png)
+![Master Page](/img/stage1/master.png)
 ![CPU Page](/img/stage1/cpu.png)
 ![Power Page](/img/stage1/power.png)
 ![Serial Page](/img/stage1/serial.png)
