@@ -2,7 +2,7 @@
 layout: post
 title: First step for the µLind project
 subtitle: A long and windy road to insanity
-gh-repo: daattali/beautiful-jekyll
+gh-repo: sperly/microlind
 gh-badge: [star, fork, follow]
 tags: [µLind, 6809]
 comments: true
