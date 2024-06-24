@@ -32,6 +32,7 @@ To scale this part down I opted to remove the high memory socket and associated 
 This is the final implementation of the serial controller and it allows me to be able to communicate with the µLind as soon as I develop basic BIOS routines for serial read/write.
 - Serial 1 will be a USB port with a system console and will probably be the first to be developed.
 - Serial 2 will be a serial periferal port or alternatively an extra Terminal (Hmm... Multi-user... NO! No feature creep here.)
+The serial interupt will be hardbound to FIRQ to make the system as simple as possible.
 
 ![Serial Page](/img/stage1/serial.png)
 
