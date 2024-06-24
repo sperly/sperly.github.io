@@ -22,9 +22,10 @@ description: Info in my GitHub projects
 navbar-links:
   About Me: "aboutme"
   Project:
-    - MicroLind: "microlind" :
-      * MicroLind Stage 1: "ml-stage1"
-    - SimpleLife: "simplelife"
+    - MicroLind: "microlind"
+    - MicroLind Stage 1: "ml-stage1"
+    - MicroLind Stage 2: "ml-stage2"
+    - MicroLind Stage 3: "ml-stage3"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
@@ -85,13 +86,13 @@ social-network-links:
 
 # Select which share links to show in posts
 share-links-active:
-  twitter: true
-  facebook: true
-  linkedin: true
+  # twitter: true
+  # facebook: true
+  # linkedin: true
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "make.tmx.se"  # eg. "deanattali.com/beautiful-jekyll"
+# url-pretty: "make.tmx.se"  # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Web Statistics Section --- #
 
