@@ -16,8 +16,8 @@ This is Stage 1 design:
 ![Master Page](/img/stage1/master.png)
 To make it manegable there are only 4 parts of the stage 1 layout:
 
-| Part | ID |
-| -:- | :-- | | :-- |
+| Part | ID | Info |
+| :---: | :--- | :--- |
 | 1 | CPU | The main cpu and the ROM and RAM. |
 | 2 | Serial | A 65C52 Dual UART. |
 | 3 | AL | Address and RD/WR logic. |
