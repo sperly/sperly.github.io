@@ -33,6 +33,9 @@ I desided that this was not challenging enough, so I put some constraints on the
 - 2 expansion modules with connectors on the back (Audio board & Video board).
 
 With this in mind and a "feature complete" computer I started doing the actual pcb layout. This task was far more daunting than I would have guessed, I could not get it done.
+
+![Motherboard-Goal](/img/motherboard.png)
+
 After several weeks of just staring at the mostly empty board I got the excellent idea of doing the layout in stages:
 
 | Stage | Content | State |
