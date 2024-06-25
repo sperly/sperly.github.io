@@ -53,7 +53,7 @@ I will only implement a reset button in stage 1.
 
 ![Power Page](/img/stage1/power.png)
 
-The schematics are available as a [PDF](/docs/schematic-stage1.pdf)  
+The schematics are available as a [PDF](/docs/schematics-stage1.pdf)  
 And board layouts as well in [PDF](/docs/board-stage1.pdf)  
 
 For KiCad project and drawings, see repository.
