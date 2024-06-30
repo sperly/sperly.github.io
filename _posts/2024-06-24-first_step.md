@@ -17,8 +17,8 @@ So what are these 3 stages then:
 | Stage | Content | Finished? |
 | :------ |:--- | :--- |
 | 1 | CPU, ROM, Low RAM, Serial Port and one expansion port (To debug easier) | Done |
-| 2 | Stage 2 + High Ram, Address Logic (For banking etc.), Interupt Logic, three expansion ports (Audio, Video and External) | In progress |
-| 3 | Stage 3 + PS2 (Mouse & Keyboard), Joystick Ports, Internal Storage Option (CF) | Designed |
+| 2 | Stage 1 + High Ram, Address Logic (For banking etc.), Interupt Logic, three expansion ports (Audio, Video and External) | In progress |
+| 3 | Stage 2 + PS2 (Mouse & Keyboard), Joystick Ports, Internal Storage Option (CF) | Designed |
 
 Each stage will let me test all implemented parts and update next stage with any mistakes found during testing.
 
